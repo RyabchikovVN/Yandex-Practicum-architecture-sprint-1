@@ -67,5 +67,7 @@
   webpack.config.js
 
 Задание 2
-
+Мое решение на первом листе "Решение"
+Оригинальная схема задания на втором листе "DF"
+Ссылка - https://drive.google.com/file/d/1Z3TMFkAoJZz35PZpzL0-E3ATme9fxQ0D/view?usp=sharing
   
